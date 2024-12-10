@@ -22,7 +22,8 @@ Email: [hongruichen2003@gmail.com](mailto:hongruichen2003@gmail.com) | Phone: +4
   - **Linear Algebra for JMC (MATH50016)**  
   - **Real Analysis and Topology for JMC (MATH50017)**  
 
-## Professional and Research Experience  
+## Professional and Research Experience
+  
 - **Research Collaborator**  
   *Zhejiang University* | *July 2024 - Sept 2024*  
   Collaborated with a traffic engineering research group to develop a deep learning model using **Mask2Former + YOLOv3** in MMDetection for analyzing traffic crossing scenarios. Focused on optimizing model performance and enhancing data analysis techniques.  
@@ -54,6 +55,21 @@ Email: [hongruichen2003@gmail.com](mailto:hongruichen2003@gmail.com) | Phone: +4
   - Learned second-order regression and economic basics.  
   - Used data tools to analyze the impact of R&D on the performance of exporters.  
   - Published an article in **ICEMGD**.  
+
+## Software and Hardware Designs
+
+- **Pintos Project Contribution**  
+  Contributed more than 70% of the work to the Pintos project, achieving a final grade of 90%.  
+  GitHub repository: [Pintos](https://github.com/mzyy1001/pintos)
+
+## Entrepreneurship Project
+
+- **AI_AB_test XV - "拾伍"**  
+  Role: Technical Lead  
+  The project uses AI agents to model consumer behavior and enables precise, interpretable A/B testing. It aims to solve pain points in traditional A/B testing, such as high costs, limited sample representativeness, and lack of explainability. The key highlights are:  
+  - **Cost-effective**: Costs about 1/6000 to 1/5000 of traditional A/B tests, and 1/1000 to 1/800 of other existing A/B testing methods.  
+  - **Dynamic User Behavior Modeling**: Provides higher timeliness and accuracy, responding better to market dynamics.  
+  - **Interpretability & Actionable Insights**: Offers actionable analysis with constructional insights and clear explanations for business development.
 
 ## Technical Skills  
 - **Programming Languages**: C++, Python, Java  
