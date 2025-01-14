@@ -1,5 +1,5 @@
 # Hongrui Chen  
-Email: [hongruichen2003@gmail.com](mailto:hongruichen2003@gmail.com) | Phone: +44(0)7419205139 | Imperial Email: [hc2723@ic.ac.uk](mailto:hc2723@ic.ac.uk)  
+Email: [hongruichen2003@gmail.com](mailto:hongruichen2003@gmail.com) | Phone: +44(0)7419205139 | Imperial Email: [hc2723@ic.ac.uk](mailto:hc2723@ic.ac.uk) | Github：https://github.com/mzyy1001/
 
 ## Education  
 **Meng Mathematics and Computer Science**  
