@@ -73,7 +73,7 @@ Email: [hongruichen2003@gmail.com](mailto:hongruichen2003@gmail.com) | Phone: +4
 
 ## Technical Skills  
 - **Programming Languages**: C++, Python, Java  
-- **Tools**: PyTorch, MMDetection, JUnit, jMock  
+- **Tools**: PyTorch, MMDetection, JUnit, jMock, Prolog  
 
 ## Extracurricular Achievements  
 - **Olympics of Informatics**  
